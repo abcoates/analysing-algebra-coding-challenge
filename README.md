@@ -27,4 +27,4 @@ The more common way to write arithmetic expressions is with numbers, operators a
 * (10/5)*5
 * 10/(5*5)
 
-Write a command-line converter that converts arithmetic expressions into RPN expressions.
+Write a command-line converter that converts arbitrary arithmetic expressions into RPN expressions.
